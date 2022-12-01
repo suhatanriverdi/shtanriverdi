@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Süha Tanrıverdi, I’m currently a software engineer and lecturer at [A2SV - Africa to Silicon Valley](http://a2sv.org/) in Addis Ababa, Ethiopia, Africa.<br>
+This is Süha Tanrıverdi, I’m currently a software engineer and lecturer at [A2SV - Africa to Silicon Valley](http://a2sv.org/) in Ethiopia, Africa.<br>
 
 🌱 I’m currently learning Swift, and iOS development.<br>
 💬 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/shtanriverdi) or through my email [Süha Tanrıverdi](shtanriverdi@yahoo.com).<br>
