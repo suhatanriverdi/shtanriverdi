@@ -4,7 +4,7 @@ This is Süha Tanrıverdi, I’m currently a software engineer and lecturer at [
 
 🌱 I’m currently learning Swift, and iOS development.<br>
 💬 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/shtanriverdi) or through my email [Süha Tanrıverdi](shtanriverdi@yahoo.com).<br>
-⚡ I'm a former basketball player 🏀 and a basketball coach. 🎵 I love making music(amateur guitar & piano player), 🎨 painting ([my artwork](https://drive.google.com/file/d/1fL92lHD8P80B9UD7uAIjaSm03tQ9DpQv/view)), amateur photography, UI/UX design, art and teaching.<br>
+⚡ I'm a former basketball player 🏀 and a basketball coach. 🎵 I love making music(amateur guitar & piano player), 🎨 painting ([my artwork](https://drive.google.com/file/d/1fL92lHD8P80B9UD7uAIjaSm03tQ9DpQv/view)), amateur photography([my portfolio](https://www.istockphoto.com/au/portfolio/melo_genesis)), UI/UX design, art and teaching.<br>
 
 You can find [my latest resume here](https://drive.google.com/file/d/1-K3ag4vc0vHxsCZkcc0pHVCnrPqBptSb/view?usp=share_link).
 
