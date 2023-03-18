@@ -1,6 +1,6 @@
-### Hey 👋
+### Hi there 👋
 
-This is Süha Tanrıverdi, I’m currently a software engineer, and head of education at [A2SV - Africa to Silicon Valley](http://a2sv.org/) in Ghana, Africa.<br>
+This is Süha Tanrıverdi. I’m currently a software engineer, and head of education at [A2SV - Africa to Silicon Valley](http://a2sv.org/) in Ghana, Africa.<br>
 
 🌱 I’m currently improving my soft skills.<br>
 💬 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/shtanriverdi) or through my email [Süha Tanrıverdi](shtanriverdi@yahoo.com).<br>
