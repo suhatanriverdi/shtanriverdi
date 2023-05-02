@@ -6,7 +6,7 @@ This is Süha Tanrıverdi. I’m currently a software engineer, and lead head of
 💬 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/shtanriverdi) or through my email [Süha Tanrıverdi](shtanriverdi@yahoo.com).<br>
 ⚡ I'm a former basketball player 🏀 and a basketball coach. 🎵 I love making music(amateur guitar & piano player), 🎨 painting ([my artwork](https://drive.google.com/file/d/1fL92lHD8P80B9UD7uAIjaSm03tQ9DpQv/view)), amateur photography([my portfolio](https://www.istockphoto.com/au/portfolio/melo_genesis)), UI/UX design, art and teaching.<br>
 
-You can find [my latest resume here](https://drive.google.com/file/d/1bdv47BTX9qw8Jo2FrIQayO01uK0kpsQo/view?usp=share_link).
+You can find [my latest resume here](https://drive.google.com/file/d/1J8lYfBW1ZD1wTv7C0w-8fm9JhrTk-HCv/view?usp=share_link).
 
 <!--
 **shtanriverdi/shtanriverdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
