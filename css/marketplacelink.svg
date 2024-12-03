@@ -1,0 +1,17 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient y2="100%" x2="100%" y1="0%" x1="0%" id="orange-gradient">
+   <stop stop-color="#FFFF00" offset="0%"/>
+   <stop stop-color="#FF1100" offset="100%"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="null" id="svg_1" fill="none" height="256" width="256"/>
+  <polygon stroke="url(#orange-gradient)" id="svg_2" stroke-width="14" stroke-linejoin="round" stroke-linecap="round" fill="none" points="140,44 124,124 188,148 76,268 92,188 28,164 140,44 "/>
+  <text transform="matrix(1.34609 0 0 1.34609 -80.6379 -18.5891)" stroke="url(#orange-gradient)" font-style="normal" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="monospace" font-size="22" id="svg_5" y="65.59947" x="224.08526" stroke-width="0" fill="#000000">AutoSave on Typing</text>
+  <text style="cursor: move;" transform="matrix(1.34609 0 0 1.34609 -80.6379 -18.5891)" stroke="url(#orange-gradient)" font-style="normal" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="monospace" font-size="16" id="svg_6" y="293.23299" x="87.41408" stroke-width="0" fill="#000000">Automatically save your files as you type</text>
+  <text transform="matrix(1.34609 0 0 1.34609 -80.6379 -18.5891)" stroke="url(#orange-gradient)" font-style="normal" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="monospace" font-size="24" id="svg_7" y="205.2868" x="180.67621" stroke-width="0" fill="#000000">JetBrains Marketplace</text>
+  <text transform="matrix(1.34609 0 0 1.34609 -80.6379 -18.5891)" stroke="url(#orange-gradient)" font-style="normal" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="monospace" font-size="28" id="svg_9" y="174.08532" x="249.44023" stroke-width="0" fill="#000000">Get from 👇🏼</text>
+ </g>
+</svg>
